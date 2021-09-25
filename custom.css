@@ -6,7 +6,6 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  /* border: 1px white solid; */
   color: white;
   font-size: 50px;
   box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.5);
